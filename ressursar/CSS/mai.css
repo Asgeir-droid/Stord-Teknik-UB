@@ -13,7 +13,6 @@ body {
 }
 
 button {
-	float: fixed;
-	padding-left: 25px;
+	text-align: center;
 }
 
