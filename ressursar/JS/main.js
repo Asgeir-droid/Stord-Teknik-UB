@@ -4,5 +4,5 @@ function myFunction() {
    element.classList.toggle("dark-mode");
 	
 	var meny = document.ul;
-	meny.classList.toggle("meny-dark-mode")
+	meny.classList.toggle("menyDarkMode");
 }
