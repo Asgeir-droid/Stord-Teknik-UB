@@ -8,12 +8,13 @@ padding: 0;
 overflow: hidden;
 background-color: black;
 position: fixed;
-width: 100%;
+width: 10%;
+height: 70%;
 top: 0;
 }
 
 li {
-float: left;
+float: fixed;
 }
 
 li a {
