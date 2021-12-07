@@ -2,5 +2,7 @@
     position: absolute;
     bottom: 1px;
     font-style: italic;
-    margin: 10;
+    font-size: 30px;
+    background-color: aquamarine;
+    width: 70%;
 }
