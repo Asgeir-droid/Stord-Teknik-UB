@@ -14,5 +14,6 @@ body {
 
 button {
 	float: fixed;
+	padding-left: 10px;
 }
 
