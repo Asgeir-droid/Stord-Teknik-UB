@@ -11,3 +11,9 @@ body {
   background-color: black;
   color: white;
 }
+
+button {
+	float: fixed;
+	padding-left: 25px;
+}
+
