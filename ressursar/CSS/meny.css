@@ -13,7 +13,7 @@ height: 60%;
 top: 0;
 }
 
-.menyDarkMode{
+#menyDarkMode{
   background-color: white;
   color: black;
 }
