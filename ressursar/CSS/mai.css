@@ -36,8 +36,11 @@ button {
 }
 .grid-item {
   border: 2px solid black;
+  border: hidden;
  
   padding: 20px;
   font-size: 25px;
   text-align: center;
+  
+
 }
