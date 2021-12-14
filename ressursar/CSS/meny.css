@@ -7,8 +7,11 @@ padding: 0;
 overflow: hidden;
 background-color: darkcyan;
 color: white;
+
+
 position: fixed;
 position: left;
+
 width: 7.3%;
 height: 65%;
 top: 0;
