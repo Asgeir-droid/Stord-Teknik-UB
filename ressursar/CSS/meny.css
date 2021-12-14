@@ -8,6 +8,7 @@ overflow: hidden;
 background-color: darkcyan;
 color: white;
 position: fixed;
+position: left;
 width: 7.3%;
 height: 80%;
 top: 0;
