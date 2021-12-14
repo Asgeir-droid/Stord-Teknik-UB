@@ -33,15 +33,16 @@ button {
 .grid-container {
   display: grid;
   grid-template-columns: 50% 50%;
- 
+
 }
 .grid-item {
   border: 2px solid black;
-  border: hidden;
+  background-color:cadetblue;
  
   padding: 20px;
   font-size: 25px;
   text-align: center;
+
   
 
 }
