@@ -28,3 +28,16 @@ button {
 .foterr{
   background-color: darkcyan;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+ 
+}
+.grid-item {
+  border: 2px solid black;
+ 
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+}
