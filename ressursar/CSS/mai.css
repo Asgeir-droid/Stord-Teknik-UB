@@ -22,11 +22,12 @@ button {
 
 #droneos {
   text-align: center;
-  font-size: x-large;
+  font-size: 250px;
 }
 
 .foterr{
   background-color: darkcyan;
+  position: bottom;
 }
 
 .grid-container {
