@@ -1,9 +1,7 @@
 .footerr {
     
-    position: fixed;
-    
     position: bottom;
-    
+
     font-size: 23px;
     background-color: darkcyan;
     width: 80%;
