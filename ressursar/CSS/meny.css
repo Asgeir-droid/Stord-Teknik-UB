@@ -42,3 +42,7 @@ li a:hover:not(.active) {
 .active {
   background-color: rgb(20,84,109);;
 }
+
+#verdana{
+  font-family: Verdana;
+}
