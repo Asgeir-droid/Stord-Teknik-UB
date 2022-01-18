@@ -92,3 +92,7 @@ td {
   background-color: rgb(233, 243, 142);
   color: black;
 }
+.dark {
+  color: white;
+  background-color: rgb(20, 84, 109);
+}
