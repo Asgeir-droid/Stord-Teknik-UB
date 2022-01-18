@@ -13,7 +13,7 @@ position: fixed;
 position: left;
 
 width: 7.3%;
-height: 70%;
+height: 60%;
 top: 0;
 }
 
@@ -41,4 +41,8 @@ li a:hover:not(.active) {
 
 .active {
   background-color: rgb(20,84,109);;
+}
+
+#verdana{
+  font-family: Verdana;
 }
