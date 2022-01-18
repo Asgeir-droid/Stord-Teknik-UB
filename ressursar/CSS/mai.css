@@ -62,3 +62,32 @@ a{
   text-decoration: none;
   color: aliceblue;
 }
+
+
+
+th {
+  border: 1px solid black;
+  background-color: gray;
+  color: white;
+  padding: 10px;
+  font-size: 33px;
+  
+}
+
+td {
+  text-align: center;
+}
+table {
+ border: 2px solid gray;
+ letter-spacing: 1px;
+ border-collapse: collapse;
+}
+th[scope="a"] {
+  background-color: rgb(70, 70, 70);
+}
+td {
+  border: 1px solid gray;
+  padding: 10px;
+  font-size: 28px;
+  background-color: lightgrey;
+}
