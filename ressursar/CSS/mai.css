@@ -83,11 +83,12 @@ table {
  border-collapse: collapse;
 }
 th[scope="a"] {
-  background-color: rgb(70, 70, 70);
+  background-color: rgb(92, 88, 88);
 }
 td {
   border: 1px solid gray;
   padding: 10px;
   font-size: 28px;
-  background-color: lightgrey;
+  background-color: rgb(233, 243, 142);
+  color: black;
 }
