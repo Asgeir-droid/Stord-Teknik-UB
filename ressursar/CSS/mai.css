@@ -26,7 +26,7 @@ button {
 }
 
 .foterr{
-  background-color: darkcyan;
+  background-color: rgb(20,84,109);;
   position: bottom;
 }
 
@@ -38,7 +38,7 @@ button {
 }
 .grid-item {
   border: 2px solid black;
-  background-color:cadetblue;
+  background-color:rgb(20,84,109);;
  
   padding: 20px;
   font-size: 25px;

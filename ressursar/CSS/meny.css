@@ -5,7 +5,7 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color: darkcyan;
+background-color: rgb(20,84,109);;
 color: white;
 
 
@@ -40,5 +40,5 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: darkcyan;
+  background-color: rgb(20,84,109);;
 }
