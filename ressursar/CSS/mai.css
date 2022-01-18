@@ -58,3 +58,7 @@ button {
 #drone_text{
   color: white;
 }
+href{
+  text-decoration: none;
+  color: aliceblue;
+}
