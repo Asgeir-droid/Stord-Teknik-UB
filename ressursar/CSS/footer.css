@@ -1,6 +1,6 @@
 .footerr {
     
-    position: bottom;
+    position: absolute;
     text-align: left;
     font-size: 23px;
     background-color: rgb(20,84,109);
