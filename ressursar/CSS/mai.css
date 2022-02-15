@@ -100,3 +100,40 @@ td {
 .table2 {
   position: center;
 }
+
+form {
+ 
+  text-align: center;
+  padding: 20px;
+}
+
+input, textarea {
+  padding: 12px;
+  margin: 6px 6px 6px 0;
+}
+
+input[type=submit] {
+  background-color: green;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=reset] {
+  background-color: red;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: darkgreen;
+  color: lightblue;
+}
+
+input[type=reset]:hover {
+  background-color: darkred;
+  color:lightblue;
+}
