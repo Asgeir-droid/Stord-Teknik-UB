@@ -6,3 +6,6 @@ function myFunction() {
 
 }
 
+function tilbake() {
+    window.location.href="";
+}
