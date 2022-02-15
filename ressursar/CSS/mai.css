@@ -78,15 +78,19 @@ td {
   text-align: center;
 }
 table {
- border: 2px solid gray;
+ border: 2px solid rgb(0, 0, 0);
  letter-spacing: 1px;
  border-collapse: collapse;
 }
 th[scope="a"] {
   background-color: rgb(92, 88, 88);
 }
+
+th[scope="b"] {
+  background-color: rgb(56, 53, 53);
+}
 td {
-  border: 1px solid gray;
+  border: 1px solid rgb(0, 0, 0);
   padding: 10px;
   font-size: 28px;
   background-color: rgb(233, 243, 142);
