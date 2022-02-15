@@ -8,11 +8,11 @@ function myFunction() {
 
 function validate() {
    if (document.form1.fullName.value.length < 1) {
-     alert("skriv inn navne.");
+     alert("skriv inn navne ditt.");
      return false;
    }
   if (document.form1.email.value.length < 7) {
-    alert("skriv inn E-mail.");
+    alert("skriv inn E-mailen din.");
     return false;
   }
   if (document.form1.comments.value.length < 3) {
