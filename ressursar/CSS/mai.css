@@ -135,16 +135,19 @@ input[type=reset] {
 input[type=submit]:hover {
   background-color: darkgreen;
   color: lightblue;
+  border: solid 2px black;
 }
 
 input[type=reset]:hover {
   background-color: darkred;
   color:lightblue;
+  border: solid 2px black;
 }
 
 input[type=button]:hover {
   background-color: rgb(0, 18, 100);
   color: lightblue;
+  border: solid 2px black;
 }
 
 input[type=button] {
@@ -153,4 +156,14 @@ input[type=button] {
   padding: 12px 20px;
   border: none;
   cursor: pointer;
+}
+
+input:hover {
+  background-color:whitesmoke;
+  border: solid 1px;
+}
+
+textarea:hover {
+  background-color:whitesmoke;
+  border: solid 1px;
 }
