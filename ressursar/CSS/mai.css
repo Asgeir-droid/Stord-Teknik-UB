@@ -183,6 +183,11 @@ textarea:hover {
 }
 
 #trykk_her_drone{
-  font-size: 5px;
+  font-size: 15px;
+  color: white;
+}
+
+#trykk_her_it-hjelp{
+  font-size: 15px;
   color: white;
 }
