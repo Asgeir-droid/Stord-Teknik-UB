@@ -160,7 +160,7 @@ input[type=button] {
 
 input:hover {
   background-color:whitesmoke;
-  border: solid 1px;
+  border: solid 2px;
 }
 
 textarea:hover {
@@ -179,7 +179,7 @@ textarea:hover {
 
 .kjøp:hover {
   background-color:rgb(250, 220, 85);
-  border: solid 4px;
+  border: solid 3px;
 }
 
 #trykk_her_drone{
