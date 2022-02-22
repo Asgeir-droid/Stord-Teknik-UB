@@ -181,3 +181,8 @@ textarea:hover {
   background-color:rgb(250, 220, 85);
   border: solid 4px;
 }
+
+#trykk_her_drone{
+  font-size: 5px;
+  color: white;
+}
